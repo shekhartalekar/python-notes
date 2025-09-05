@@ -1,3 +1,4 @@
 # python-notes
-shekhar Talekar
+shekhar Talekar shekhartalekar8201@gmail.com
+
 

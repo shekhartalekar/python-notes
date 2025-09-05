@@ -1,2 +1,3 @@
 # python-notes
-shekhar
+shekhar Talekar
+
